@@ -1,8 +1,6 @@
 ## Datasets
 
 [maestro](https://g.co/magenta/maestro-dataset)
-It's better to just get midi and gen the wav by you self
-use midi to synthesize audio
 
 [jsbach midi](http://www.jsbach.net/midi/) 
 
@@ -12,7 +10,7 @@ use midi to synthesize audio
 [130,000 Midi File Collection 3.65Gb Uncompressed / 1.02 Gb Compressed ZIP](https://www.reddit.com/r/WeAreTheMusicMakers/comments/3ajwe4/the_largest_midi_collection_on_the_internet/)
 
 
-[SALAMI](http://ddmal.music.mcgill.ca/research/salami)
+[SALAMI](https://ddmal.music.mcgill.ca/research/SALAMI/)
 和弦分析和标注上，McGill贡献了SALAMI数据集
 
 [MAPS & others](https://adasp.telecom-paris.fr/resources/)
