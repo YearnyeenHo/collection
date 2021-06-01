@@ -6,6 +6,17 @@
 
 [Jazz Piano Lessons](https://www.thejazzpianosite.com/jazz-piano-lessons/)
 
+## C++
+
+[C++ Tips of the Week](https://abseil.io/tips/)
+
+[C++11/14/17/20](https://changkun.de/modern-cpp/zh-cn/05-pointers/index.html)
+
+## speech & audio
+[Aalto:Introduction to Speech Processing](https://wiki.aalto.fi/display/ITSP/Introduction+to+Speech+Processing)
+
+[hand-book-of-speech-enhancement-and-recognition](https://shichaog1.gitbooks.io/hand-book-of-speech-enhancement-and-recognition/content/chapter11.html)
+
 ## computer music
 
 [Matlab Audio Processing Examples](https://www.ee.columbia.edu/~dpwe/resources/matlab/)
@@ -24,10 +35,6 @@
 
 [musicdsp.org](https://www.musicdsp.org/en/latest/index.html)
 
-## speech & audio
-[Aalto:Introduction to Speech Processing](https://wiki.aalto.fi/display/ITSP/Introduction+to+Speech+Processing)
-
-[hand-book-of-speech-enhancement-and-recognition](https://shichaog1.gitbooks.io/hand-book-of-speech-enhancement-and-recognition/content/chapter11.html)
 
 ## machine learning
 
@@ -38,11 +45,6 @@
 [Lihang](https://github.com/SmirkCao/Lihang)
 
 [d2l-en](https://github.com/d2l-ai/d2l-en)
-
-## C++
-[C++11/14/17/20](https://changkun.de/modern-cpp/zh-cn/05-pointers/index.html)
-
-[C++ Tips of the Week](https://abseil.io/tips/)
 
 ## Books Searching
 
