@@ -1,4 +1,4 @@
-# study_map
+# goal-related websites collection
 
 ## Music Theory (Jazz)
 
