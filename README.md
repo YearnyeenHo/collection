@@ -1,20 +1,10 @@
 # study_map
 
-## interview
-[C++ interview github](https://github.com/huihut/interview/tree/master/Algorithm)
+## Music Theory (Jazz)
 
-[Hands-on Algorithmic Problem Solving](https://github.com/liyin2015/Hands-on-Algorithmic-Problem-Solving)
+[jazzhistorytree](https://www.jazzhistorytree.com)
 
-[ML-NLP](https://github.com/NLP-LOVE/ML-NLP)
-
-[Algorithm_Interview_Notes-Chinese](https://github.com/DarLiner/Algorithm_Interview_Notes-Chinese)
-
-[DeepLearningBookQA_cn](https://github.com/elviswf/DeepLearningBookQA_cn)
-
-[machine-learning-interview](https://github.com/khangich/machine-learning-interview)
-
-[distribution-is-all-you-need](https://github.com/graykode/distribution-is-all-you-need)
-
+[Jazz Piano Lessons](https://www.thejazzpianosite.com/jazz-piano-lessons/)
 
 ## C++
 [C++11/14/17/20](https://changkun.de/modern-cpp/zh-cn/05-pointers/index.html)
@@ -64,10 +54,19 @@ https://www.wolframalpha.com
 
 https://www.desmos.com
 
+## interview
+[C++ interview github](https://github.com/huihut/interview/tree/master/Algorithm)
 
-## Music Theory (Jazz)
+[Hands-on Algorithmic Problem Solving](https://github.com/liyin2015/Hands-on-Algorithmic-Problem-Solving)
 
-[jazzhistorytree](https://www.jazzhistorytree.com)
+[ML-NLP](https://github.com/NLP-LOVE/ML-NLP)
 
-[Jazz Piano Lessons](https://www.thejazzpianosite.com/jazz-piano-lessons/)
+[Algorithm_Interview_Notes-Chinese](https://github.com/DarLiner/Algorithm_Interview_Notes-Chinese)
+
+[DeepLearningBookQA_cn](https://github.com/elviswf/DeepLearningBookQA_cn)
+
+[machine-learning-interview](https://github.com/khangich/machine-learning-interview)
+
+[distribution-is-all-you-need](https://github.com/graykode/distribution-is-all-you-need)
+
 
