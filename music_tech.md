@@ -9,6 +9,8 @@ A dataset of 222 digital musical scores aligned with 1068 performances (more tha
 
 [symbolic-musical-datasets](https://github.com/wayne391/symbolic-musical-datasets)
 
+[MusoRepo: a Directory of Resources for Computational Musicology](https://fourscoreandmore.org/musoRepo/)
+
 [JSB-Chorales-dataset](https://github.com/czhuang/JSB-Chorales-dataset)
 
 [jsbach midi](http://www.jsbach.net/midi/) 
@@ -22,12 +24,28 @@ A dataset of 222 digital musical scores aligned with 1068 performances (more tha
 
 [MAPS & others](https://adasp.telecom-paris.fr/resources/)
 
+[The Harmonix Set](https://github.com/urinieto/harmonixset)The Harmonix Set: Beats, Downbeats, and Structural Annotations for Pop Music
+
 [lead-sheet-dataset](https://github.com/wayne391/lead-sheet-dataset)
 
 [iRealPro Corpus of Jazz Standards](https://zenodo.org/record/3546040#.YG6sUS0RphH)
 
+[Jazz Audio-Aligned Harmony (JAAH) Dataset](https://github.com/MTG/JAAH)
+
 [Chord-Jazzification](https://github.com/Tsung-Ping/Chord-Jazzification)
 A dataset for chord coloring and voicing
+
+[Doug McKenzie Jazz](https://bushgrafts.com/midi/)
+
+[Weimar Jazz Database (WJazzD)](https://jazzomat.hfm-weimar.de/dbformat/dboverview.html)
+
+[thejazzpage](http://www.thejazzpage.de/index1.html)
+
+[midkar](http://midkar.com/jazz/jazz_01.html) Jazz, Standards, Big Band, and Swing
+
+[acroche2](http://www.acroche2.com/midi_jazz.html)
+
+[minor9](https://bhs.minor9.com)
 
 [POP909](https://github.com/music-x-lab/POP909-Dataset)
 
@@ -51,10 +69,14 @@ A Multimodal Audio Sheet Music Dataset
 
 [Zendo 数据分享平台](https://zenodo.org/record/3546040#.X4T_6i-cYWr)
 
+[IMSLP](https://github.com/jlumbroso/imslp)
+
+[a data set of StyleNet](https://github.com/imalikshake/StyleNet)
+
 ## Theory stuff
 
 [chordify](https://chordify.net/?welcome=1)
 
 [hooktheory](https://www.hooktheory.com)
 
-
+[Bob Keller's Jazz Page](https://www.cs.hmc.edu/~keller/jazz/)
