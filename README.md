@@ -1,4 +1,4 @@
-# goal-related websites collection
+# websites collection
 
 ## Music Theory (Jazz)
 
