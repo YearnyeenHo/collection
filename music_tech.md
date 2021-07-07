@@ -39,6 +39,12 @@ A dataset for chord coloring and voicing
 
 [Weimar Jazz Database (WJazzD)](https://jazzomat.hfm-weimar.de/dbformat/dboverview.html)
 
+[Wikifonia Archive, MuseScore lead sheets of jazz standards](https://musescore.com/groups/jazz-standards-leadsheets/discuss/5019538)
+
+[Wikifonia](http://www.synthzone.com/files/Wikifonia/Wikifonia.zip)  Wikifonia database of 6,675 lead sheets in mxl format
+
+[Enhanced Wikifonia Leadsheet Dataset](https://zenodo.org/record/1476555#.YMltci0RrUI)
+
 [thejazzpage](http://www.thejazzpage.de/index1.html)
 
 [midkar](http://midkar.com/jazz/jazz_01.html) Jazz, Standards, Big Band, and Swing
@@ -47,7 +53,19 @@ A dataset for chord coloring and voicing
 
 [minor9](https://bhs.minor9.com)
 
+
+[WikiFonia + BIAB files](https://www.dropbox.com/sh/11lv6srce2627gb/AAD5Z_L8qbbTYbGLGz-5MqT0a?dl=0)
+
 [POP909](https://github.com/music-x-lab/POP909-Dataset)
+
+
+http://repmus.ircam.fr/dyci2/ressources
+
+[WP2 Charlie Parker's Omnibook Data, encoded by K. Déguernel in Midi, MusicXml, MuseScore and PDF](https://nubo.ircam.fr/index.php/s/BPtsmcqPQCNedgc)
+
+[Million song dataset](http://millionsongdataset.com) 
+
+[Lakh midi dataset (matched and aligned to entries in the Million Song Dataset)](https://colinraffel.com/projects/lmd/)
 
 [DALI](https://github.com/gabolsgabs/DALI)
 a large Dataset of synchronised Audio, LyrIcs and vocal notes.
@@ -71,7 +89,7 @@ A Multimodal Audio Sheet Music Dataset
 
 [IMSLP](https://github.com/jlumbroso/imslp)
 
-[a data set of StyleNet](https://github.com/imalikshake/StyleNet)
+[Saxsolos](https://saxsolos.com)
 
 ## Theory stuff
 
