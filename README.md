@@ -36,7 +36,6 @@
 
 [musicdsp.org](https://www.musicdsp.org/en/latest/index.html)
 
-
 ## machine learning
 
 [hardikkamboj / An-Introduction-to-Statistical-Learning](https://github.com/hardikkamboj/An-Introduction-to-Statistical-Learning)
@@ -77,3 +76,11 @@ https://www.desmos.com
 ## keep track
 
 https://www.sony.com/en/SonyInfo/technology/works/
+
+https://www.ee.columbia.edu/~dpwe/resources/matlab/
+
+https://www.audiolabs-erlangen.de/research
+
+http://mir.ilsp.gr
+
+

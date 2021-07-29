@@ -7,6 +7,8 @@ A dataset of 222 digital musical scores aligned with 1068 performances (more tha
 
 [FMA: A Dataset For Music Analysis](https://github.com/mdeff/fma)
 
+[Saarland Music Data(SMD)](https://www.audiolabs-erlangen.de/resources/MIR/SMD)
+
 [symbolic-musical-datasets](https://github.com/wayne391/symbolic-musical-datasets)
 
 [MusoRepo: a Directory of Resources for Computational Musicology](https://fourscoreandmore.org/musoRepo/)
@@ -53,15 +55,16 @@ A dataset for chord coloring and voicing
 
 [minor9](https://bhs.minor9.com)
 
-
 [WikiFonia + BIAB files](https://www.dropbox.com/sh/11lv6srce2627gb/AAD5Z_L8qbbTYbGLGz-5MqT0a?dl=0)
-
-[POP909](https://github.com/music-x-lab/POP909-Dataset)
-
 
 http://repmus.ircam.fr/dyci2/ressources
 
 [WP2 Charlie Parker's Omnibook Data, encoded by K. Déguernel in Midi, MusicXml, MuseScore and PDF](https://nubo.ircam.fr/index.php/s/BPtsmcqPQCNedgc)
+
+[BopLand.org](https://www.bopland.org) BopLand.org is a knowledge database for improvising musicians containing thousands of jazz licks over most common chord progressions.
+
+
+[POP909](https://github.com/music-x-lab/POP909-Dataset)
 
 [Million song dataset](http://millionsongdataset.com) 
 
