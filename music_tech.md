@@ -63,6 +63,7 @@ http://repmus.ircam.fr/dyci2/ressources
 
 [BopLand.org](https://www.bopland.org) BopLand.org is a knowledge database for improvising musicians containing thousands of jazz licks over most common chord progressions.
 
+[AILabs.tw-Pop1.7K dataset](https://github.com/YatingMusic/compound-word-transformer/tree/main/dataset) expressive pop piano performances
 
 [POP909](https://github.com/music-x-lab/POP909-Dataset)
 
