@@ -44,6 +44,8 @@
 
 [Lihang](https://github.com/SmirkCao/Lihang)
 
+[lihang-code](https://github.com/fengdu78/lihang-code)
+
 [d2l-en](https://github.com/d2l-ai/d2l-en)
 
 ## Books Searching
@@ -82,5 +84,7 @@ https://www.ee.columbia.edu/~dpwe/resources/matlab/
 https://www.audiolabs-erlangen.de/research
 
 http://mir.ilsp.gr
+
+https://eita-nakamura.github.io
 
 

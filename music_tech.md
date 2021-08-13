@@ -5,6 +5,8 @@
 [asap-dataset](https://github.com/fosfrancesco/asap-dataset)
 A dataset of 222 digital musical scores aligned with 1068 performances (more than 92 hours) of Western classical piano music.
 
+[KernScores](http://kern.ccarh.org)
+
 [FMA: A Dataset For Music Analysis](https://github.com/mdeff/fma)
 
 [Saarland Music Data(SMD)](https://www.audiolabs-erlangen.de/resources/MIR/SMD)

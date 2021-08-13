@@ -25,10 +25,7 @@
 |link| Description|
 |:-:|:-:|
 |[jazz_music](https://github.com/lazell/jazz_music)|Swing music genre classification project: classifies one of 5 swing-dance styles for a given jazz-era song.|
-|[walkingbass](https://github.com/0b01/walkingbass/tree/master/mingus)|this program generates jazz/swing style walking bass based on chords|
-
-|[2017-JNMR-SwingRatio](https://www.audiolabs-erlangen.de/resources/MIR/2017-JNMR-SwingRatio/)| A Swingogram Representation for Tracking Microrhythmic Variations in Jazz Performances|
-|[2018-ISMIR-LBD-Redrum](https://www.audiolabs-erlangen.de/resources/MIR/2018-ISMIR-LBD-Redrum)|Break-Informed Audio Decomposition for Interactive Redrumming|
+|[walkingbass](https://github.com/0b01/walkingbass/tree/master/mingus)|this program generates jazz/swing style walking bass based on chords||[2017-JNMR-SwingRatio](https://www.audiolabs-erlangen.de/resources/MIR/2017-JNMR-SwingRatio/)| A Swingogram Representation for Tracking Microrhythmic Variations in Jazz Performances||[2018-ISMIR-LBD-Redrum](https://www.audiolabs-erlangen.de/resources/MIR/2018-ISMIR-LBD-Redrum)|Break-Informed Audio Decomposition for Interactive Redrumming|
 ### drum
 
 https://www.songsterr.com
