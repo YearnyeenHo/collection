@@ -48,6 +48,8 @@
 
 [d2l-en](https://github.com/d2l-ai/d2l-en)
 
+[ML_Notes](https://github.com/zhulei227/ML_Notes)
+
 ## Books Searching
 
 http://libgen.lc
@@ -56,6 +58,11 @@ http://libgen.lc
 https://www.wolframalpha.com
 
 https://www.desmos.com
+
+https://www.geogebra.org
+
+
+[Interactive Linear Algebra](https://github.com/QBobWatson/ila)
 
 ## interview
 [C++ interview github](https://github.com/huihut/interview/tree/master/Algorithm)

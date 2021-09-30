@@ -7,6 +7,8 @@ A dataset of 222 digital musical scores aligned with 1068 performances (more tha
 
 [KernScores](http://kern.ccarh.org)
 
+[MuseSyn](https://zenodo.org/record/4527460#.YRm5jC0RphE) A dataset for complete automatic piano music transcription research
+
 [FMA: A Dataset For Music Analysis](https://github.com/mdeff/fma)
 
 [Saarland Music Data(SMD)](https://www.audiolabs-erlangen.de/resources/MIR/SMD)
