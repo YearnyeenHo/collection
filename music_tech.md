@@ -86,6 +86,10 @@ The musdb18 is a dataset of 150 full lengths music tracks (~10h duration) of dif
 [LibriMix](https://github.com/JorisCos/LibriMix)
 An open source dataset for source separation
 
+[Groove MIDI Dataset](https://magenta.tensorflow.org/datasets/groove) is composed of 13.6 hours of aligned MIDI and (synthesized) audio of human-performed, tempo-aligned expressive drumming. The dataset contains 1,150 MIDI files and over 22,000 measures of drumming.
+
+[The Expanded Groove MIDI Dataset](https://magenta.tensorflow.org/datasets/e-gmd)is a large dataset of human drum performances, with audio recordings annotated in MIDI. 
+
 [freesound-datasets](https://github.com/YearnyeenHo?tab=stars&q=&q=dataset)
 
 [SpotMux: A data collector for Spotify & MusixMatch](https://github.com/dmgutierrez/spotify-musixmatch-data-collector)
