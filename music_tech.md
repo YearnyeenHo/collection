@@ -99,6 +99,17 @@ A Multimodal Audio Sheet Music Dataset
 
 [Saxsolos](https://saxsolos.com)
 
+[GTZAN Genre Collection/ Music Speech ](http://marsyas.info/downloads/datasets.html) 
+GTZAN Genre Collection: genre classification
+Music Speech:A similar dataset which was collected for the purposes of music/speech discrimination. 
+
+[The MTG-Jamendo Dataset](https://github.com/MTG/mtg-jamendo-dataset)
+MTG-Jamendo Dataset, a new open dataset for music auto-tagging.The dataset contains over 55,000 full audio tracks with 195 tags from genre, instrument, and mood/theme categories.
+
+[EMOPIA](https://zenodo.org/record/5090631#.YPPo-JMzZz8) A Multi-Modal Pop Piano Dataset For Emotion Recognition and Emotion-based Music Generation
+
+https://ismir.net/resources/datasets/
+
 ## Theory stuff
 
 [chordify](https://chordify.net/?welcome=1)
