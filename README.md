@@ -13,6 +13,8 @@
 
 [C++11/14/17/20](https://changkun.de/modern-cpp/zh-cn/05-pointers/index.html)
 
+[hackingcpp](https://hackingcpp.com)
+
 ## speech & audio
 [Aalto:Introduction to Speech Processing](https://wiki.aalto.fi/display/ITSP/Introduction+to+Speech+Processing)
 
@@ -53,6 +55,9 @@
 ## Books Searching
 
 http://libgen.lc
+
+https://www.academia.edu
+
 
 ## maths tools
 https://www.wolframalpha.com
