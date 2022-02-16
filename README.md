@@ -15,6 +15,8 @@
 
 [hackingcpp](https://hackingcpp.com)
 
+[Compiler Explorer](https://godbolt.org)
+
 ## speech & audio
 [Aalto:Introduction to Speech Processing](https://wiki.aalto.fi/display/ITSP/Introduction+to+Speech+Processing)
 
