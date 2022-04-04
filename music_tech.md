@@ -77,6 +77,8 @@ http://repmus.ircam.fr/dyci2/ressources
 
 [Lakh midi dataset (matched and aligned to entries in the Million Song Dataset)](https://colinraffel.com/projects/lmd/)
 
+[VGMIDI](https://github.com/lucasnfe/vgmidi) Dataset of piano arrangements of video game soundtracks labelled according to sentiment.
+
 [DALI](https://github.com/gabolsgabs/DALI)
 a large Dataset of synchronised Audio, LyrIcs and vocal notes.
 
