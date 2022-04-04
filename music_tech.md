@@ -23,6 +23,8 @@ A dataset of 222 digital musical scores aligned with 1068 performances (more tha
 
 [piano-midi](http://www.piano-midi.de/chopin)
 
+[MetaMIDI Dataset (MMD)](https://github.com/jeffreyjohnens/MetaMIDIDataset) a large scale collection of 436,631 MIDI files and metadata.
+
 [130,000 Midi File Collection 3.65Gb Uncompressed / 1.02 Gb Compressed ZIP](https://www.reddit.com/r/WeAreTheMusicMakers/comments/3ajwe4/the_largest_midi_collection_on_the_internet/)
 
 [SALAMI](https://ddmal.music.mcgill.ca/research/SALAMI/)
